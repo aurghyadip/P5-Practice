@@ -41,6 +41,4 @@ function setup() {
   button.mousePressed(generate);
 }
 
-function draw() {
-
-}
+function draw()
